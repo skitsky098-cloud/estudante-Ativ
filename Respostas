@@ -1,0 +1,45 @@
+Alternativa B — Definir a estrutura e os elementos da página.
+
+ Alternativa C — Definir a aparência e a organização visual da interface.
+
+ HTML cria a estrutura, CSS cuida da aparência e JavaScript adiciona funcionalidades e interatividade.
+
+ Alternativa B — Selecionar um elemento da página pelo seu identificador (id).
+
+Resposta: 7.
+
+
+ Alternativa C — Tomar decisões com base em condições, como a média do estudante.
+
+ A validação evita erros nos cálculos. Exemplos: nota 12 e nota negativa (-2).
+
+ Não. O código não contempla a recuperação. Poderia ser corrigido assim:
+
+if (media >= 7) {
+    situacao = "Aprovado";
+} else if (media >= 5) {
+    situacao = "Recuperação";
+} else {
+    situacao = "Reprovado";
+}
+
+
+9. Alternativa B — Facilitar a organização, a manutenção e a compreensão do código.
+
+10. Três possíveis causas:
+- JavaScript não está conectado corretamente.
+- O botão está com a função errada.
+- Existe algum erro no código JavaScript.
+Eu investigaria abrindo o console do navegador com F12 para procurar mensagens de erro.
+
+1. A parte mais difícil foi fazer os cálculos e as validações. Resolvi utilizando condições no JavaScript.
+
+2. O JavaScript modifica a página ao atualizar os resultados diretamente, sem precisar recarregá-la.
+
+3. Eu adicionaria um histórico de consultas para permitir que os estudantes visualizassem suas médias anteriores.
+
+Estudante	Média	Situação
+Ana	8,00	Aprovada
+Bruno	5,67	Recuperação
+Carla	4,00	Reprovada
+Diego	9,00	Aprovado
